@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Phil Westhart
 // 
 // Create Date: 07/21/2015 05:47:28 PM
 // Design Name: 
