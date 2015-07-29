@@ -1,0 +1,16 @@
+Vivado Simulator 2015.1
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto 42c8e6b0e34342ba9dd73cca21ade859 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot memory_tb_behav xil_defaultlib.memory_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/pwest/Dropbox/UTSA/EE5193 FPGA HDL/Final Project/Individual Modules/memory.v" Line 2. Module memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/pwest/Dropbox/UTSA/EE5193 FPGA HDL/Final Project/Individual Modules/memory.v" Line 2. Module memory doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.memory
+Compiling module xil_defaultlib.memory_tb
+Compiling module xil_defaultlib.glbl
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot memory_tb_behav
